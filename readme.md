@@ -2,10 +2,10 @@ Poetry
 Edgar Allen Poe
 
 Selected poems from this list:
-* The Raven
+* The Ravens
 * Dream with a Dream
 * another poem
-* some other poem
+* other poem are better then some more
 * yea another
 * line from online
 * the best poem
