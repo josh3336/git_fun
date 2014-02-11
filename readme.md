@@ -11,6 +11,7 @@ Selected poems from this list:
 * more poems
 * i like some poems
 * last poems are cool
+*conflicts are cool
 
 
 
