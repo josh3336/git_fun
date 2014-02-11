@@ -1,6 +1,6 @@
 Poetry
 Edgar Allen Poe
 
-Selected Poems from this list:
+Selected poems from this list:
 * The RaveN
 * Dream with a Dream
